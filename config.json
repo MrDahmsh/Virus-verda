@@ -1,0 +1,19 @@
+{
+    "c2_seed": "my_secret_seed",
+    "activation_trigger": "activate_virdah",
+    "target_domain": "examblr.com",
+    "server_ip": "127.0.0.1",
+    "server_port": 8080,
+    "c2_url": "http://example.com/c2",
+    "persistence": true,
+    "encryption_key": "my_encryption_key",
+    "keylogger_enabled": false,
+    "keylogger_output_file": "keylog.txt",
+    "proxy_enabled": false,
+    "proxy_ip": "192.168.1.1",
+    "proxy_port": 3128,
+    "user_agent": "Mozilla/5.0",
+    "sleep_time": 60,
+    "auto_update": true,
+    "debug_mode": false
+}
